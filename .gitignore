@@ -1,0 +1,65 @@
+# ---------------------------------------------------------------------------
+# Python
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---------------------------------------------------------------------------
+# Logs / editor / OS
+# ---------------------------------------------------------------------------
+*.log
+.idea/
+.DS_Store
+Thumbs.db
+.session.vim
+
+# ---------------------------------------------------------------------------
+# Large input data (regenerate with src/generate/ or download externally)
+# ---------------------------------------------------------------------------
+data/synthetic/*.csv
+data/synthetic/*.csv.gz
+data/synthetic/synthPhenotypes*/
+data/synthetic/craterModel/
+data/synthetic/CATTLE*/
+# raw 1000G VCFs and indices used by the OLIDA benchmark
+src/oligogenic/*.vcf
+src/oligogenic/*.vcf.gz
+src/oligogenic/*.vcf.gz.tbi
+
+# ---------------------------------------------------------------------------
+# Precomputed model bundles / heavy intermediate results (~7 GB)
+# Regenerate with src/synthetic/fit/ and src/elife/ scripts.
+# ---------------------------------------------------------------------------
+results/
+
+# ---------------------------------------------------------------------------
+# Archive of stale scripts / superseded outputs (kept locally, not tracked)
+# ---------------------------------------------------------------------------
+archive/
+
+# ---------------------------------------------------------------------------
+# Loose PNGs produced by plot scripts in the repo root before they are
+# collected into figures/ by the Makefile.
+# ---------------------------------------------------------------------------
+/*.png
+/*.svg
+/*.html
+
+# scratch dir for figure regeneration
+figures/_build/
+
+# ---------------------------------------------------------------------------
+# Binary data artifacts anywhere (regenerable / external)
+# ---------------------------------------------------------------------------
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
+*.bcf
+*.pickle
+
+# OLIDA subsystem: generated datasets, raw 1000G, and result pickles.
+# Only the code (*.py) and reports are tracked; rebuild data per its REPORT.md.
+src/oligogenic/dataset/
+src/oligogenic/pickles_*/

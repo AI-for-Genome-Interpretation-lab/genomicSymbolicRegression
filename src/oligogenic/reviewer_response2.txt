@@ -1,0 +1,7 @@
+We thank the reviewer for this suggestion. We fully agree that tree-based methods represent a natural baseline for epistasis detection, and we have included Random Forest in our benchmarking across all datasets and noise conditions.
+
+In terms of classification performance (AUROC/AUPRC), Random Forest performs comparably to or slightly better than symbolic regression in most settings, confirming that tree-based models are indeed strong competitors for this task.
+
+However, we argue that the core advantage of symbolic regression (SR) via Feyn is not marginal improvement in predictive accuracy, but rather the nature of the output itself. Random Forest produces a black-box ensemble of hundreds of trees whose combined decision boundary is not interpretable in any straightforward way. In contrast, Feyn returns a single, explicit mathematical formula over the input SNPs — for example, a logistic function of the form f(v_A, v_B) = sigma(w1 * v_A + w2 * v_B + w3 * v_A * v_B + b) — directly naming the interacting variants and quantifying their joint contribution. This formula can be immediately inspected, reported, and communicated to clinicians or biologists without requiring post-hoc explanation tools.
+
+In the context of oligogenic disease, where the scientific goal is to identify which specific variant combinations drive disease risk, an interpretable formula that explicitly encodes the interaction is more actionable than a feature importance ranking derived from a forest of trees. We have clarified this distinction in the manuscript.

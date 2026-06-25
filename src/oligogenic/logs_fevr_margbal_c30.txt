@@ -1,0 +1,440 @@
+[INFO: feyn] - This version of Feyn and the QLattice is available for academic, personal, and non-commercial use. By using the community version of this software you agree to the terms and conditions which can be found at https://abzu.ai/eula.
+[INFO: feyn.tools._data._types] - Column 'v595' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v597' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v598' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v599' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v600' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v601' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v603' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v604' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v605' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v607' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v609' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v611' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v612' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v613' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v614' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v615' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v616' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v618' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v619' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v621' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v622' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v623' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v625' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v628' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v629' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v630' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v631' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v632' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v633' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v634' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v636' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v638' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v639' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v640' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v641' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v642' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v644' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v645' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v647' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v649' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v650' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v651' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v654' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v655' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v657' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v658' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v659' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v661' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v662' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v665' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v666' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v667' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v668' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v669' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v670' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v671' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v673' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v674' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v675' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v676' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v677' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v679' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v680' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v681' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v682' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v683' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v686' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v687' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v688' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v689' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v690' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v691' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v694' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v695' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v696' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v698' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v700' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v701' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v702' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v703' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v704' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v705' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v706' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v709' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v710' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v711' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v712' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v713' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v714' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v715' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v716' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v717' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v718' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v719' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v720' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v721' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v722' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v724' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v725' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v727' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v728' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v729' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v730' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v733' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v734' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v735' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v738' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v739' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v742' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v743' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v744' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v747' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v748' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v749' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v750' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v751' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v752' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v753' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v754' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v755' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v756' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v757' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v758' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v760' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v761' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v762' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v763' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v764' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v766' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v767' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v768' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v770' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v773' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v774' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v776' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v778' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v780' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v782' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v783' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v784' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v785' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v786' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v789' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v790' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v793' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v794' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v797' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v798' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v799' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v800' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v801' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v803' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v804' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v805' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v806' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v807' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v808' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v809' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v810' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v812' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v813' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v814' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v815' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v816' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v817' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v819' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v820' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v821' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v822' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v825' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v827' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v829' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v830' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v957' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v959' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v961' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v962' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v963' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v964' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v966' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v967' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v968' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v969' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v971' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v972' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v973' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v974' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v976' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v978' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v979' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v981' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v982' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v983' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v985' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v987' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v988' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v989' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v990' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v991' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v993' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v994' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v995' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v996' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v997' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v998' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1000' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1001' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1002' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1005' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1006' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1008' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1010' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1011' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1012' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1014' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1015' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1016' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1019' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1020' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1021' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1022' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1023' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1026' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1027' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1028' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1029' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1030' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1032' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1034' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1037' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1039' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1040' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1041' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1043' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1045' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1046' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1048' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1049' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1050' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1051' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1052' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1054' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1055' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1058' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1060' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1064' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1065' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1066' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1067' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1071' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1072' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1073' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1075' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1076' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1078' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1079' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1082' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1083' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1084' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1085' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1086' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1087' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1090' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1092' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1093' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1094' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1095' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1096' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1097' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1098' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1099' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1100' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1101' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1102' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1103' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1105' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1106' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1107' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1108' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1109' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1110' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1111' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1112' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1113' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1114' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1115' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1118' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1119' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1122' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1123' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1124' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1125' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1126' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1127' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1128' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1129' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1131' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1132' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1133' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1134' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1135' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1136' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1138' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1140' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1141' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1142' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1143' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1144' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1145' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1146' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1147' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1148' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1149' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1150' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1151' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1152' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1154' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1156' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1157' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1158' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1159' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1160' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1161' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1162' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1164' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1165' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1166' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1167' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1169' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1170' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1171' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1172' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1173' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1210' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1211' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1213' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1214' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1215' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1216' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1218' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1223' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1224' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1225' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1227' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v1230' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2486' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2489' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2490' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2495' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2496' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2505' is constant (contains only one value) and will be skipped.
+[INFO: feyn._svgrenderer] - Epoch no. 1/50 - Tried 1139 models - Elapsed: 2s of 2.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 2/50 - Tried 2339 models - Elapsed: 5s of 2.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 3/50 - Tried 3508 models - Elapsed: 9s of 2.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 4/50 - Tried 4733 models - Elapsed: 13s of 2.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 5/50 - Tried 5967 models - Elapsed: 16s of 2.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 6/50 - Tried 7190 models - Elapsed: 21s of 2.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 7/50 - Tried 8388 models - Elapsed: 24s of 2.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 8/50 - Tried 9615 models - Elapsed: 28s of 2.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 9/50 - Tried 10857 models - Elapsed: 31s of 3.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 10/50 - Tried 12105 models - Elapsed: 35s of 3.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 11/50 - Tried 13359 models - Elapsed: 39s of 3.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 12/50 - Tried 14615 models - Elapsed: 43s of 3.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 13/50 - Tried 15882 models - Elapsed: 47s of 3.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 14/50 - Tried 17132 models - Elapsed: 51s of 3.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 15/50 - Tried 18409 models - Elapsed: 55s of 3.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 16/50 - Tried 19678 models - Elapsed: 1m 0s of 3.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 17/50 - Tried 20940 models - Elapsed: 1m 4s of 3.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 18/50 - Tried 22207 models - Elapsed: 1m 8s of 3.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 19/50 - Tried 23475 models - Elapsed: 1m 13s of 3.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 20/50 - Tried 24702 models - Elapsed: 1m 18s of 3.3m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 21/50 - Tried 25952 models - Elapsed: 1m 23s of 3.3m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 22/50 - Tried 27211 models - Elapsed: 1m 27s of 3.3m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 23/50 - Tried 28478 models - Elapsed: 1m 31s of 3.3m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 24/50 - Tried 29741 models - Elapsed: 1m 36s of 3.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 25/50 - Tried 31013 models - Elapsed: 1m 40s of 3.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 26/50 - Tried 32278 models - Elapsed: 1m 45s of 3.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 27/50 - Tried 33529 models - Elapsed: 1m 49s of 3.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 28/50 - Tried 34777 models - Elapsed: 1m 54s of 3.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 29/50 - Tried 36021 models - Elapsed: 1m 59s of 3.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 30/50 - Tried 37268 models - Elapsed: 2m 4s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 31/50 - Tried 38523 models - Elapsed: 2m 9s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 32/50 - Tried 39763 models - Elapsed: 2m 14s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 33/50 - Tried 41025 models - Elapsed: 2m 19s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 34/50 - Tried 42272 models - Elapsed: 2m 24s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 35/50 - Tried 43527 models - Elapsed: 2m 29s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 36/50 - Tried 44770 models - Elapsed: 2m 35s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 37/50 - Tried 46004 models - Elapsed: 2m 39s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 38/50 - Tried 47255 models - Elapsed: 2m 44s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 39/50 - Tried 48507 models - Elapsed: 2m 49s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 40/50 - Tried 49772 models - Elapsed: 2m 54s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 41/50 - Tried 51032 models - Elapsed: 3m 0s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 42/50 - Tried 52292 models - Elapsed: 3m 4s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 43/50 - Tried 53549 models - Elapsed: 3m 8s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 44/50 - Tried 54795 models - Elapsed: 3m 13s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 45/50 - Tried 56040 models - Elapsed: 3m 18s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 46/50 - Tried 57280 models - Elapsed: 3m 23s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 47/50 - Tried 58518 models - Elapsed: 3m 28s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 48/50 - Tried 59754 models - Elapsed: 3m 33s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 49/50 - Tried 61019 models - Elapsed: 3m 37s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 50/50 - Tried 62275 models - Completed in 3m 42s.
+Loading fevr_margbal...
+Features: 7840 total, 20 OLIDA-causative
+Samples: train=294, val=63, test=63
+
+Pre-filtering: 7840 → 2506 features (top by |corr| with y + all causative)
+  OLIDA-causative retained: 20/20  (force-added: 6)
+
+Running Feyn (2506 features, 50 epochs, max_complexity=30)...
+Best model: <feyn._model.Model object at 0x778663cb4820>
+Feyn selected 3 features: ['v2502', 'v2501', 'v46']
+  Original indices: [7836, 7835, 125]
+  OLIDA-causative used: [7836, 7835]
+
+Feyn (raw score) — AUROC: 0.6327  AUPRC: 0.4586
+Feyn → Logistic     — AUROC: 0.5714  AUPRC: 0.4429
+Feyn rank→Logistic  — AUROC: 0.6100  AUPRC: 0.5048  (top-20 features)
+
+Ranking saved → dataset/fevr_margbal/feyn_raw_rank_c30.npy
+Model features saved → dataset/fevr_margbal/feyn_model_features_c30.npy  (3 features: [7836, 7835, 125])
+Prefilter idx saved → dataset/fevr_margbal/feyn_prefilter_idx_c30.npy  (2506 features)
+Model pickle saved  → dataset/fevr_margbal/feyn_model_c30.pickle
+
+      K          Feyn raw_c30
+------------------------------
+      1                0.0500
+      2                0.1000
+      5                0.0870
+     10                0.0714
+     20                0.0526
+     50                0.2281
+    100                0.1321
+    200                0.0680
+    500                0.0277
+   1000                0.0139
+
+Updated dataset/fevr_margbal/comparison_results.csv
+
+Done.

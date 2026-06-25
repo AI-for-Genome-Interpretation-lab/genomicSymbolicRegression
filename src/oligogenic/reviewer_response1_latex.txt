@@ -1,0 +1,77 @@
+% ── Add to Results / Benchmarking section ─────────────────────────────────────
+
+To broaden the comparison beyond linear models and neural networks, we
+included Random Forest (500 trees) as a representative tree-based baseline
+capable of capturing nonlinear and higher-order interactions.
+Across all datasets and noise conditions, Random Forest achieves
+classification performance (AUROC/AUPRC) comparable to or slightly above
+that of SR-based models (see Supplementary Figure~\ref{fig:supp_rf_comparison}),
+confirming that ensemble tree methods are strong predictive competitors.
+
+Despite this parity in accuracy, SR via Feyn offers a qualitatively
+different output: rather than an ensemble of hundreds of trees whose joint
+decision boundary is not directly interpretable, Feyn returns a single
+explicit mathematical formula over the input variants, for example:
+
+\begin{equation}
+    \hat{y} = \sigma\!\left(w_1\, v_A + w_2\, v_B + w_3\, v_A v_B + b\right)
+    \label{eq:feyn_example}
+\end{equation}
+
+\noindent where $v_A$ and $v_B$ are dosage values at two specific loci,
+$w_1, w_2, w_3$ are learned coefficients, and $\sigma$ is the logistic
+function. This formula directly names the interacting variants and
+quantifies their joint contribution, making it immediately interpretable
+without post-hoc explanation tools.
+In the context of oligogenic disease, where the scientific goal is to
+identify \emph{which} variant combinations drive disease risk, such an
+explicit representation is more actionable than a feature importance
+ranking derived from a Random Forest
+(Supplementary Table~\ref{tab:supp_jaccard_rf}).
+
+
+% ── Supplementary figure caption ──────────────────────────────────────────────
+
+\begin{figure}[h]
+    \centering
+    \includegraphics[width=\textwidth]{figures/supp_rf_comparison.pdf}
+    \caption{%
+        \textbf{AUROC and AUPRC comparison across all methods and datasets.}
+        Random Forest (RF), PLINK2\,$\to$\,Logistic, Logistic L1/L2, MLP,
+        and Feyn SR (complexity $c{=}10$) evaluated on baseline and
+        false-positive balanced (\texttt{fpbal}) datasets for SCA17, FHL,
+        and Alport syndrome. RF achieves top or near-top predictive
+        accuracy in all conditions; Feyn SR is competitive on FHL and
+        Alport but trades accuracy for interpretability.%
+    }
+    \label{fig:supp_rf_comparison}
+\end{figure}
+
+
+% ── Supplementary table caption ───────────────────────────────────────────────
+
+\begin{table}[h]
+\centering
+\caption{%
+    \textbf{Jaccard-based combination recovery (SNP@K and Combo Jaccard)
+    for RF, PLINK2, and Feyn SR ($c{=}10$).}
+    $K$ is set equal to the number of OLIDA-causative variants per disease.
+    RF achieves the highest SNP and combination recovery on SCA17 fpbal;
+    PLINK2 leads on FHL baseline; methods converge on Alport.%
+}
+\label{tab:supp_jaccard_rf}
+\begin{tabular}{lrrrrrrr}
+\toprule
+ & & \multicolumn{2}{c}{RF} & \multicolumn{2}{c}{PLINK2} & \multicolumn{2}{c}{Feyn $c{=}10$} \\
+\cmidrule(lr){3-4}\cmidrule(lr){5-6}\cmidrule(lr){7-8}
+Dataset & $K$ & SNP & Combo & SNP & Combo & SNP & Combo \\
+\midrule
+SCA17 baseline  & 29 & 0.933 & 0.966 & 0.933 & 0.966 & 0.933 & 0.966 \\
+SCA17 fpbal     & 29 & \textbf{1.000} & \textbf{1.000} & 0.933 & 0.966 & 0.933 & 0.966 \\
+FHL baseline    &  6 & 0.200 & 0.333 & \textbf{0.333} & \textbf{0.500} & 0.200 & 0.333 \\
+FHL fpbal       &  6 & \textbf{0.714} & 0.667 & \textbf{0.714} & 0.667 & 0.500 & 0.500 \\
+Alport baseline & 37 & \textbf{0.762} & \textbf{0.870} & 0.682 & 0.783 & 0.682 & 0.783 \\
+Alport fpbal    & 37 & \textbf{0.947} & 0.913 & 0.897 & \textbf{0.913} & 0.897 & 0.913 \\
+\bottomrule
+\end{tabular}
+\end{table}

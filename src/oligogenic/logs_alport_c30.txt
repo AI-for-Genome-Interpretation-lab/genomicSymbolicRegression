@@ -1,0 +1,89 @@
+[INFO: feyn] - This version of Feyn and the QLattice is available for academic, personal, and non-commercial use. By using the community version of this software you agree to the terms and conditions which can be found at https://abzu.ai/eula.
+[INFO: feyn._svgrenderer] - Epoch no. 1/50 - Tried 1139 models - Elapsed: 3s of 3.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 2/50 - Tried 2306 models - Elapsed: 6s of 2.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 3/50 - Tried 3531 models - Elapsed: 10s of 2.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 4/50 - Tried 4752 models - Elapsed: 14s of 3.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 5/50 - Tried 6007 models - Elapsed: 17s of 3.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 6/50 - Tried 7268 models - Elapsed: 22s of 3.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 7/50 - Tried 8512 models - Elapsed: 26s of 3.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 8/50 - Tried 9730 models - Elapsed: 30s of 3.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 9/50 - Tried 10931 models - Elapsed: 34s of 3.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 10/50 - Tried 12140 models - Elapsed: 39s of 3.3m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 11/50 - Tried 13360 models - Elapsed: 43s of 3.3m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 12/50 - Tried 14573 models - Elapsed: 48s of 3.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 13/50 - Tried 15783 models - Elapsed: 52s of 3.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 14/50 - Tried 17008 models - Elapsed: 58s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 15/50 - Tried 18241 models - Elapsed: 1m 4s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 16/50 - Tried 19440 models - Elapsed: 1m 8s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 17/50 - Tried 20656 models - Elapsed: 1m 12s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 18/50 - Tried 21882 models - Elapsed: 1m 17s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 19/50 - Tried 23103 models - Elapsed: 1m 22s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 20/50 - Tried 24331 models - Elapsed: 1m 28s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 21/50 - Tried 25556 models - Elapsed: 1m 35s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 22/50 - Tried 26765 models - Elapsed: 1m 40s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 23/50 - Tried 27987 models - Elapsed: 1m 45s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 24/50 - Tried 29204 models - Elapsed: 1m 50s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 25/50 - Tried 30443 models - Elapsed: 1m 56s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 26/50 - Tried 31645 models - Elapsed: 2m 2s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 27/50 - Tried 32862 models - Elapsed: 2m 7s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 28/50 - Tried 34078 models - Elapsed: 2m 12s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 29/50 - Tried 35293 models - Elapsed: 2m 18s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 30/50 - Tried 36501 models - Elapsed: 2m 24s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 31/50 - Tried 37728 models - Elapsed: 2m 30s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 32/50 - Tried 38938 models - Elapsed: 2m 35s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 33/50 - Tried 40180 models - Elapsed: 2m 41s of 4.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 34/50 - Tried 41410 models - Elapsed: 2m 46s of 4.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 35/50 - Tried 42644 models - Elapsed: 2m 51s of 4.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 36/50 - Tried 43855 models - Elapsed: 2m 57s of 4.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 37/50 - Tried 45081 models - Elapsed: 3m 3s of 4.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 38/50 - Tried 46274 models - Elapsed: 3m 8s of 4.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 39/50 - Tried 47482 models - Elapsed: 3m 13s of 4.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 40/50 - Tried 48688 models - Elapsed: 3m 18s of 4.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 41/50 - Tried 49904 models - Elapsed: 3m 23s of 4.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 42/50 - Tried 51135 models - Elapsed: 3m 29s of 4.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 43/50 - Tried 52323 models - Elapsed: 3m 34s of 4.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 44/50 - Tried 53518 models - Elapsed: 3m 40s of 4.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 45/50 - Tried 54737 models - Elapsed: 3m 45s of 4.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 46/50 - Tried 55946 models - Elapsed: 3m 48s of 4.2m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 47/50 - Tried 57157 models - Elapsed: 3m 52s of 4.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 48/50 - Tried 58347 models - Elapsed: 3m 56s of 4.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 49/50 - Tried 59554 models - Elapsed: 3m 59s of 4.1m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 50/50 - Tried 60749 models - Completed in 4m 2s.
+Loading alport...
+Features: 7529 total, 37 OLIDA-causative
+Samples: train=672, val=144, test=144
+
+Pre-filtering: 7529 → 2500 features (top by |corr| with y + all causative)
+  OLIDA-causative retained: 37/37  (force-added: 0)
+
+Running Feyn (2500 features, 50 epochs, max_complexity=30)...
+Best model: <feyn._model.Model object at 0x79a47ccdfcd0>
+Feyn selected 9 features: ['v3', 'v1', 'v0', 'v5', 'v27', 'v20', 'v405', 'v41', 'v26']
+  Original indices: [7497, 7520, 3136, 7129, 7508, 7498, 2472, 7512, 7516]
+  OLIDA-causative used: [7497, 7520, 7508, 7498, 7512, 7516]
+
+Feyn (raw score) — AUROC: 0.7708  AUPRC: 0.7708
+Feyn → Logistic     — AUROC: 0.7708  AUPRC: 0.7708
+Feyn rank→Logistic  — AUROC: 0.9792  AUPRC: 0.9792  (top-37 features)
+
+Ranking saved → dataset/alport/feyn_raw_rank_c30.npy
+Model features saved → dataset/alport/feyn_model_features_c30.npy  (9 features: [7497, 7520, 3136, 7129, 7508, 7498, 2472, 7512, 7516])
+Prefilter idx saved → dataset/alport/feyn_prefilter_idx_c30.npy  (2500 features)
+Model pickle saved  → dataset/alport/feyn_model_c30.pickle
+
+      K          Feyn raw_c30
+------------------------------
+      1                0.0270
+      2                0.0541
+      5                0.0769
+     10                0.1463
+     20                0.3256
+     50                0.7400
+    100                0.3700
+    200                0.1850
+    500                0.0740
+   1000                0.0370
+
+Updated dataset/alport/comparison_results.csv
+
+Done.

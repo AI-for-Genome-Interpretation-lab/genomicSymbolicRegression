@@ -1,0 +1,106 @@
+[INFO: feyn] - This version of Feyn and the QLattice is available for academic, personal, and non-commercial use. By using the community version of this software you agree to the terms and conditions which can be found at https://abzu.ai/eula.
+[INFO: feyn.tools._data._types] - Column 'v2464' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2467' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2470' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2473' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2474' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2483' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2490' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2492' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2494' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2499' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2502' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2503' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2504' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2509' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2510' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2515' is constant (contains only one value) and will be skipped.
+[INFO: feyn.tools._data._types] - Column 'v2516' is constant (contains only one value) and will be skipped.
+[INFO: feyn._svgrenderer] - Epoch no. 1/50 - Tried 1139 models - Elapsed: 5s of 4.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 2/50 - Tried 2335 models - Elapsed: 9s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 3/50 - Tried 3483 models - Elapsed: 12s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 4/50 - Tried 4691 models - Elapsed: 16s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 5/50 - Tried 5911 models - Elapsed: 21s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 6/50 - Tried 7109 models - Elapsed: 25s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 7/50 - Tried 8321 models - Elapsed: 28s of 3.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 8/50 - Tried 9551 models - Elapsed: 32s of 3.4m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 9/50 - Tried 10797 models - Elapsed: 37s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 10/50 - Tried 12033 models - Elapsed: 42s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 11/50 - Tried 13274 models - Elapsed: 46s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 12/50 - Tried 14471 models - Elapsed: 51s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 13/50 - Tried 15705 models - Elapsed: 54s of 3.5m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 14/50 - Tried 16928 models - Elapsed: 59s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 15/50 - Tried 18169 models - Elapsed: 1m 4s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 16/50 - Tried 19429 models - Elapsed: 1m 9s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 17/50 - Tried 20691 models - Elapsed: 1m 13s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 18/50 - Tried 21946 models - Elapsed: 1m 18s of 3.6m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 19/50 - Tried 23197 models - Elapsed: 1m 23s of 3.7m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 20/50 - Tried 24469 models - Elapsed: 1m 30s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 21/50 - Tried 25715 models - Elapsed: 1m 35s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 22/50 - Tried 26975 models - Elapsed: 1m 40s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 23/50 - Tried 28226 models - Elapsed: 1m 44s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 24/50 - Tried 29470 models - Elapsed: 1m 48s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 25/50 - Tried 30733 models - Elapsed: 1m 53s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 26/50 - Tried 32002 models - Elapsed: 1m 58s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 27/50 - Tried 33258 models - Elapsed: 2m 3s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 28/50 - Tried 34487 models - Elapsed: 2m 8s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 29/50 - Tried 35724 models - Elapsed: 2m 12s of 3.8m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 30/50 - Tried 36944 models - Elapsed: 2m 18s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 31/50 - Tried 38201 models - Elapsed: 2m 23s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 32/50 - Tried 39443 models - Elapsed: 2m 29s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 33/50 - Tried 40691 models - Elapsed: 2m 35s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 34/50 - Tried 41928 models - Elapsed: 2m 40s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 35/50 - Tried 43170 models - Elapsed: 2m 46s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 36/50 - Tried 44411 models - Elapsed: 2m 49s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 37/50 - Tried 45639 models - Elapsed: 2m 54s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 38/50 - Tried 46899 models - Elapsed: 2m 58s of 3.9m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 39/50 - Tried 48120 models - Elapsed: 3m 4s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 40/50 - Tried 49356 models - Elapsed: 3m 10s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 41/50 - Tried 50597 models - Elapsed: 3m 16s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 42/50 - Tried 51837 models - Elapsed: 3m 21s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 43/50 - Tried 53067 models - Elapsed: 3m 27s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 44/50 - Tried 54304 models - Elapsed: 3m 32s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 45/50 - Tried 55529 models - Elapsed: 3m 36s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 46/50 - Tried 56769 models - Elapsed: 3m 41s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 47/50 - Tried 58007 models - Elapsed: 3m 46s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 48/50 - Tried 59253 models - Elapsed: 3m 49s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 49/50 - Tried 60480 models - Elapsed: 3m 53s of 4.0m. (est.)
+[INFO: feyn._svgrenderer] - Epoch no. 50/50 - Tried 61688 models - Completed in 3m 57s.
+Loading hypo_margbal...
+Features: 21545 total, 57 OLIDA-causative
+Samples: train=938, val=201, test=201
+
+Pre-filtering: 21545 → 2517 features (top by |corr| with y + all causative)
+  OLIDA-causative retained: 57/57  (force-added: 17)
+
+Running Feyn (2517 features, 50 epochs, max_complexity=30)...
+Best model: <feyn._model.Model object at 0x7c01b49e6740>
+Feyn selected 7 features: ['v171', 'v665', 'v144', 'v163', 'v2479', 'v1145', 'v1663']
+  Original indices: [1524, 5622, 1271, 1451, 21507, 9692, 14491]
+  OLIDA-causative used: [21507]
+
+Feyn (raw score) — AUROC: 0.6584  AUPRC: 0.5238
+Feyn → Logistic     — AUROC: 0.6432  AUPRC: 0.5205
+Feyn rank→Logistic  — AUROC: 0.7639  AUPRC: 0.6912  (top-57 features)
+
+Ranking saved → dataset/hypo_margbal/feyn_raw_rank_c30.npy
+Model features saved → dataset/hypo_margbal/feyn_model_features_c30.npy  (7 features: [1524, 5622, 1271, 1451, 21507, 9692, 14491])
+Prefilter idx saved → dataset/hypo_margbal/feyn_prefilter_idx_c30.npy  (2517 features)
+Model pickle saved  → dataset/hypo_margbal/feyn_model_c30.pickle
+
+      K          Feyn raw_c30
+------------------------------
+      1                0.0000
+      2                0.0000
+      5                0.0164
+     10                0.0469
+     20                0.1000
+     50                0.0918
+    100                0.0608
+    200                0.1843
+    500                0.0774
+   1000                0.0393
+
+Updated dataset/hypo_margbal/comparison_results.csv
+
+Done.

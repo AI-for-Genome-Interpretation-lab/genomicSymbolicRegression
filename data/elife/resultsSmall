@@ -1,0 +1,32 @@
+Ridge Test r:  0.43946222286764003
+Ridge Test R²:  0.1931258660949765
+Ridge Test Spearman:  0.513612127179589
+Ridge Test NDCG:  0.8451887260152527
+MLP Test r:  0.9456490072021555
+MLP Test R²:  0.8927194572371604
+MLP Test Spearman:  0.236882837367356
+MLP Test NDCG:  0.9761976231266188
+
+FeynBIC Test r:  0.7514756403262887
+FeynBIC Test R²:  0.5642040747679076
+FeynBIC Test Spearman:  0.40244049879953686
+FeynBIC Test NDCG:  0.9163360920074607
+multiply(add("p2", add("p0", multiply("p3", "p0"))), multiply("p2", add(add("p2", "p0"), "p1")))
+
+epochs20 numvar 8 allfunc
+FeynBIC Test r:  0.8023880765504201
+FeynBIC Test R²:  0.6410397583038627
+FeynBIC Test Spearman:  0.4360014653117765
+FeynBIC Test NDCG:  0.9302773415097513
+FEATURES:  ['p0', 'p1', 'p2', 'p3']
+gaussian(squared("p3"), multiply(sqrt(linear(multiply(inverse("p2"), add("p3", "p2")))), add(add("p1", "p0"), "p1")))
+
+epochs20 numvar 20*8 allfunc
+FeynBIC Test r:  0.7921278237810039
+FeynBIC Test R²:  0.6267122259808802
+FeynBIC Test Spearman:  0.498690109797051
+FeynBIC Test NDCG:  0.9306814226832667
+FEATURES:  ['p0', 'p1', 'p2', 'p3']
+gaussian(multiply(tanh(add(multiply("p2", add("p3", "p1")), "p0")), add(gaussian("p3"), "p2")), multiply("p3", inverse("p2")))
+
+

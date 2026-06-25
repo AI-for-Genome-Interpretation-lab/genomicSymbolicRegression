@@ -1,0 +1,7 @@
+We thank the reviewer for these detailed methodological concerns. We address each point in turn.
+
+Regarding amino acid encoding: we clarify in the revised manuscript that each residue position is encoded as a binary indicator variable (wild-type = 0, mutant = 1), consistent with the standard encoding used in the GB1 epistasis literature. While richer encodings (e.g., physicochemical properties, one-hot over all 20 amino acids) are possible, the binary WT/mutant encoding is appropriate here because the GB1 dataset specifically measures the fitness effect of a defined set of point mutations relative to the wild-type sequence, making a two-state representation both natural and well-established for this benchmark.
+
+Regarding the train/test split: we now report the exact split proportions used in each experiment in the Methods section. We agree that a single split does not characterize variance in output. In the revised manuscript we report results averaged over multiple random train/test splits and include standard deviations.
+
+Regarding evaluation metrics: we have computed additional metrics as suggested. Mean squared error (MSE), Spearman's rho, and Pearson's R are now reported alongside the previously used metrics. Full results for all metrics across all datasets and models are provided in the Supplementary Material, where they confirm the trends reported in the main text.

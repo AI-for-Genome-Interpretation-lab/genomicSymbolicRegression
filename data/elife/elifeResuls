@@ -1,0 +1,27 @@
+ELIFE 160 complexity, add mul
+
+Ridge Test r:  0.44405508948978656
+Ridge Test R²:  0.19718172606978313
+Ridge Test Spearman:  0.5260396076817413
+Ridge Test NDCG:  0.8480499196409136
+MLP Test r:  0.9410699876098467
+MLP Test R²:  0.8853764216196245
+MLP Test Spearman:  0.26881546099880216
+MLP Test NDCG:  0.9705142008945352
+
+FeynBIC Test r:  0.7634455099403442
+FeynBIC Test R²:  0.5824129024370803
+FeynBIC Test Spearman:  0.4946451364852577
+FeynBIC Test NDCG:  0.9264165150883331
+
+
+
+ p0    p1   p2      p3
+(V39, D40, G41 and V54)
+(('p0', 'p3'), 26)
+(('p2', 'p3'), 26)
+(('p0', 'p2'), 24)
+(('p1', 'p2'), 18)
+(('p1', 'p3'), 16)
+(('p0', 'p1'), 16)
+

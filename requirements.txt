@@ -1,0 +1,21 @@
+# Python dependencies for the figure-generation pipeline.
+# Tested with Python 3.9+. Install with:  pip install -r requirements.txt
+#
+# Feyn / QLattice (the symbolic-regression engine). Required to UNPICKLE the
+# fitted model bundles under results/, not only to refit them.
+feyn
+
+numpy
+pandas
+scipy
+scikit-learn
+sympy
+matplotlib
+
+# Only needed to refit the GB1 / crater models from scratch (src/elife,
+# src/synthetic/fit/computePredsSCrater*). Not needed just to plot.
+torch
+
+# External CLI tools (not pip): PLINK1.9 / PLINK2 must be on $PATH for the
+# epistasis-detection baselines in src/synthetic/fit/plinkEpistasis.py and the
+# OLIDA benchmark in src/oligogenic/.
